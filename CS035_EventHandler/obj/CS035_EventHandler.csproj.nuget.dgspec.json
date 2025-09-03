@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_P2\\CS035_EventHandler\\CS035_EventHandler.csproj": {}
+    "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\CS035_EventHandler\\CS035_EventHandler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_P2\\CS035_EventHandler\\CS035_EventHandler.csproj": {
+    "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\CS035_EventHandler\\CS035_EventHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_P2\\CS035_EventHandler\\CS035_EventHandler.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\CS035_EventHandler\\CS035_EventHandler.csproj",
         "projectName": "CS035_EventHandler",
-        "projectPath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_P2\\CS035_EventHandler\\CS035_EventHandler.csproj",
+        "projectPath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\CS035_EventHandler\\CS035_EventHandler.csproj",
         "packagesPath": "C:\\Users\\LENOVO LEGION\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_P2\\CS035_EventHandler\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\CS035_EventHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
