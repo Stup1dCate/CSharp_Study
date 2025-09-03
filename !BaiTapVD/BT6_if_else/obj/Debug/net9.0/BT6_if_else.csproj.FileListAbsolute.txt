@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\bin\Debug\net9.0\BT6_if_else.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\bin\Debug\net9.0\BT6_if_else.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\bin\Debug\net9.0\BT6_if_else.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\bin\Debug\net9.0\BT6_if_else.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\bin\Debug\net9.0\BT6_if_else.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\refint\BT6_if_else.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\BT6_if_else.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT6_if_else\obj\Debug\net9.0\ref\BT6_if_else.dll

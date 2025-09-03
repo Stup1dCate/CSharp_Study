@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\bin\Debug\net9.0\BT17_Class.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\bin\Debug\net9.0\BT17_Class.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\bin\Debug\net9.0\BT17_Class.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\bin\Debug\net9.0\BT17_Class.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\bin\Debug\net9.0\BT17_Class.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\refint\BT17_Class.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\BT17_Class.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\!BaiTapVD\BT17_Class\obj\Debug\net9.0\ref\BT17_Class.dll

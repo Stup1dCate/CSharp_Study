@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BT_chuyenSoThanhChu/1.0.0": {
+        "runtime": {
+          "BT_chuyenSoThanhChu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT_chuyenSoThanhChu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
