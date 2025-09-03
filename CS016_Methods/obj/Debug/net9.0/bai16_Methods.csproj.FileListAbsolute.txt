@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\bin\Debug\net9.0\bai16_Methods.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\bin\Debug\net9.0\bai16_Methods.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\bin\Debug\net9.0\bai16_Methods.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\bin\Debug\net9.0\bai16_Methods.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\bin\Debug\net9.0\bai16_Methods.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\refint\bai16_Methods.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\bai16_Methods.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai16_Methods\obj\Debug\net9.0\ref\bai16_Methods.dll

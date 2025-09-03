@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\bin\Debug\net9.0\CS030_Abstract.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\bin\Debug\net9.0\CS030_Abstract.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\bin\Debug\net9.0\CS030_Abstract.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\bin\Debug\net9.0\CS030_Abstract.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\bin\Debug\net9.0\CS030_Abstract.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\refint\CS030_Abstract.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\CS030_Abstract.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS030_Abstract\obj\Debug\net9.0\ref\CS030_Abstract.dll

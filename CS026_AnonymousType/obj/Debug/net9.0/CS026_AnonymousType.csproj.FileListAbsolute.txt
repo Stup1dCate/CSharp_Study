@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\bin\Debug\net9.0\CS026_AnonymousType.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\bin\Debug\net9.0\CS026_AnonymousType.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\bin\Debug\net9.0\CS026_AnonymousType.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\bin\Debug\net9.0\CS026_AnonymousType.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\bin\Debug\net9.0\CS026_AnonymousType.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\refint\CS026_AnonymousType.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\CS026_AnonymousType.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS026_AnonymousType\obj\Debug\net9.0\ref\CS026_AnonymousType.dll

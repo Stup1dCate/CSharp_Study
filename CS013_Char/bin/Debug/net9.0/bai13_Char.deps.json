@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bai13_Char/1.0.0": {
+        "runtime": {
+          "bai13_Char.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai13_Char/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

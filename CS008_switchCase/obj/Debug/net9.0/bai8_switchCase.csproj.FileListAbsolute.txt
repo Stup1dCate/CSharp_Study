@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\bin\Debug\net9.0\bai8_switchCase.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\bin\Debug\net9.0\bai8_switchCase.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\bin\Debug\net9.0\bai8_switchCase.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\bin\Debug\net9.0\bai8_switchCase.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\bin\Debug\net9.0\bai8_switchCase.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\refint\bai8_switchCase.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\bai8_switchCase.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai8_switchCase\obj\Debug\net9.0\ref\bai8_switchCase.dll

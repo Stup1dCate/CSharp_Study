@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\bin\Debug\net9.0\CS001_HelloWorld.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\bin\Debug\net9.0\CS001_HelloWorld.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\bin\Debug\net9.0\CS001_HelloWorld.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\bin\Debug\net9.0\CS001_HelloWorld.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\bin\Debug\net9.0\CS001_HelloWorld.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\refint\CS001_HelloWorld.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\CS001_HelloWorld.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P1\CS001_HelloWorld\obj\Debug\net9.0\ref\CS001_HelloWorld.dll

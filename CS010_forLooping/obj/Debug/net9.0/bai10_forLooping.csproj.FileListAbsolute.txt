@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\bin\Debug\net9.0\bai10_forLooping.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\bin\Debug\net9.0\bai10_forLooping.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\bin\Debug\net9.0\bai10_forLooping.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\bin\Debug\net9.0\bai10_forLooping.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\bin\Debug\net9.0\bai10_forLooping.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\refint\bai10_forLooping.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\bai10_forLooping.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai10_forLooping\obj\Debug\net9.0\ref\bai10_forLooping.dll

@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\bin\Debug\net9.0\CS019_Struct.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\bin\Debug\net9.0\CS019_Struct.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\bin\Debug\net9.0\CS019_Struct.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\bin\Debug\net9.0\CS019_Struct.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\bin\Debug\net9.0\CS019_Struct.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\refint\CS019_Struct.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\CS019_Struct.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS019_Struct\obj\Debug\net9.0\ref\CS019_Struct.dll

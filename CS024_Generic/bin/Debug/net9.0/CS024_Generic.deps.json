@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CS024_Generic/1.0.0": {
+        "runtime": {
+          "CS024_Generic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS024_Generic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\bin\Debug\net9.0\CS027_DynamicType.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\bin\Debug\net9.0\CS027_DynamicType.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\bin\Debug\net9.0\CS027_DynamicType.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\bin\Debug\net9.0\CS027_DynamicType.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\bin\Debug\net9.0\CS027_DynamicType.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\refint\CS027_DynamicType.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\CS027_DynamicType.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS027_DynamicType\obj\Debug\net9.0\ref\CS027_DynamicType.dll

@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\bin\Debug\net9.0\bai3_constants_Math.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\bin\Debug\net9.0\bai3_constants_Math.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\bin\Debug\net9.0\bai3_constants_Math.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\bin\Debug\net9.0\bai3_constants_Math.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\bin\Debug\net9.0\bai3_constants_Math.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\refint\bai3_constants_Math.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\bai3_constants_Math.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai3_constants_Math\obj\Debug\net9.0\ref\bai3_constants_Math.dll

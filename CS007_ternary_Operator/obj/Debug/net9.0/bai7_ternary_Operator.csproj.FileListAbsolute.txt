@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\bin\Debug\net9.0\bai7_ternary_Operator.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\bin\Debug\net9.0\bai7_ternary_Operator.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\bin\Debug\net9.0\bai7_ternary_Operator.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\bin\Debug\net9.0\bai7_ternary_Operator.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\bin\Debug\net9.0\bai7_ternary_Operator.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\refint\bai7_ternary_Operator.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\bai7_ternary_Operator.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai7_ternary_Operator\obj\Debug\net9.0\ref\bai7_ternary_Operator.dll

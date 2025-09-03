@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\bin\Debug\net9.0\bai5_logic_prefix_postfix.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\bin\Debug\net9.0\bai5_logic_prefix_postfix.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\bin\Debug\net9.0\bai5_logic_prefix_postfix.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\bin\Debug\net9.0\bai5_logic_prefix_postfix.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\bin\Debug\net9.0\bai5_logic_prefix_postfix.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\refint\bai5_logic_prefix_postfix.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\bai5_logic_prefix_postfix.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai5_logic_prefix_postfix\obj\Debug\net9.0\ref\bai5_logic_prefix_postfix.dll

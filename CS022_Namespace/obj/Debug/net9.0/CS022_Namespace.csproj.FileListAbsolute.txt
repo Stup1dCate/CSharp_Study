@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\bin\Debug\net9.0\CS022_Namespace.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\bin\Debug\net9.0\CS022_Namespace.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\bin\Debug\net9.0\CS022_Namespace.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\bin\Debug\net9.0\CS022_Namespace.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\bin\Debug\net9.0\CS022_Namespace.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\refint\CS022_Namespace.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\CS022_Namespace.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS022_Namespace\obj\Debug\net9.0\ref\CS022_Namespace.dll

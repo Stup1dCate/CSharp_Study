@@ -1,0 +1,4 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS023_NamespacePartial\obj\Debug\net9.0\CS023_NamespacePartial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS023_NamespacePartial\obj\Debug\net9.0\CS023_NamespacePartial.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS023_NamespacePartial\obj\Debug\net9.0\CS023_NamespacePartial.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS023_NamespacePartial\obj\Debug\net9.0\CS023_NamespacePartial.csproj.CoreCompileInputs.cache

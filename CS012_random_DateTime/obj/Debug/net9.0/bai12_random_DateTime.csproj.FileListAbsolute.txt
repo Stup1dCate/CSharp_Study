@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\bin\Debug\net9.0\bai12_random_DateTime.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\bin\Debug\net9.0\bai12_random_DateTime.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\bin\Debug\net9.0\bai12_random_DateTime.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\bin\Debug\net9.0\bai12_random_DateTime.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\bin\Debug\net9.0\bai12_random_DateTime.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\refint\bai12_random_DateTime.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\bai12_random_DateTime.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai12_random_DateTime\obj\Debug\net9.0\ref\bai12_random_DateTime.dll

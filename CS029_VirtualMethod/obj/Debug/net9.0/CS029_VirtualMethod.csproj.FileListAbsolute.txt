@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\bin\Debug\net9.0\CS029_VirtualMethod.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\bin\Debug\net9.0\CS029_VirtualMethod.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\bin\Debug\net9.0\CS029_VirtualMethod.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\bin\Debug\net9.0\CS029_VirtualMethod.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\bin\Debug\net9.0\CS029_VirtualMethod.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\refint\CS029_VirtualMethod.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\CS029_VirtualMethod.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS029_VirtualMethod\obj\Debug\net9.0\ref\CS029_VirtualMethod.dll

@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\bin\Debug\net9.0\CS020_StructEnum.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\bin\Debug\net9.0\CS020_StructEnum.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\bin\Debug\net9.0\CS020_StructEnum.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\bin\Debug\net9.0\CS020_StructEnum.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\bin\Debug\net9.0\CS020_StructEnum.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\refint\CS020_StructEnum.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\CS020_StructEnum.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CS020_StructEnum\obj\Debug\net9.0\ref\CS020_StructEnum.dll

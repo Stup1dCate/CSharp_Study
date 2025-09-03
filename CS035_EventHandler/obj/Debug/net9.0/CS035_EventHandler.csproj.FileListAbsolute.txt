@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\bin\Debug\net9.0\CS035_EventHandler.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\bin\Debug\net9.0\CS035_EventHandler.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\bin\Debug\net9.0\CS035_EventHandler.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\bin\Debug\net9.0\CS035_EventHandler.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\bin\Debug\net9.0\CS035_EventHandler.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\refint\CS035_EventHandler.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\CS035_EventHandler.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_P2\CS035_EventHandler\obj\Debug\net9.0\ref\CS035_EventHandler.dll

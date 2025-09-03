@@ -1,0 +1,14 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\bin\Debug\net9.0\bai9_while_DoWhile.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\bin\Debug\net9.0\bai9_while_DoWhile.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\bin\Debug\net9.0\bai9_while_DoWhile.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\bin\Debug\net9.0\bai9_while_DoWhile.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\bin\Debug\net9.0\bai9_while_DoWhile.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\refint\bai9_while_DoWhile.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\bai9_while_DoWhile.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\C#_VSC\bai9_while_DoWhile\obj\Debug\net9.0\ref\bai9_while_DoWhile.dll
