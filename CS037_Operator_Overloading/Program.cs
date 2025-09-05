@@ -115,8 +115,8 @@ namespace CS037_Operator_Overloading
 
             // truy cập đến thành viên dữ liệu trong vector:
             // chỉ số truy cập là các số:
-            // v1[0] ~x;
-            // v1[1] ~y;
+            // v1[0]; ~ x
+            // v1[1]; ~ y
             Vector v5 = new Vector(3, 4);
             v5[0] = 5;
             v5[1] = 6;
@@ -124,8 +124,8 @@ namespace CS037_Operator_Overloading
             Console.WriteLine(v5[3]); // phát sinh lỗi nếu truy cập sai
 
             // chỉ số truy cập là các chuỗi:
-            // v["toadox"] ~x;
-            // v["toadoy"] ~y; 
+            // v["toadox"]; ~ x
+            // v["toadoy"]; ~ y 
             Vector v6 = new Vector(3, 4);
             v6["toadox"] = 10;
             v6["toadoy"] = 12;
