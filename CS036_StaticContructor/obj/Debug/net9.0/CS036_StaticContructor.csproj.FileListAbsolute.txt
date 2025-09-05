@@ -1,0 +1,15 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\bin\Debug\net9.0\CS036_StaticContructor.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\bin\Debug\net9.0\CS036_StaticContructor.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\bin\Debug\net9.0\CS036_StaticContructor.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\bin\Debug\net9.0\CS036_StaticContructor.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\bin\Debug\net9.0\CS036_StaticContructor.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.sourcelink.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\refint\CS036_StaticContructor.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\CS036_StaticContructor.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS036_StaticContructor\obj\Debug\net9.0\ref\CS036_StaticContructor.dll

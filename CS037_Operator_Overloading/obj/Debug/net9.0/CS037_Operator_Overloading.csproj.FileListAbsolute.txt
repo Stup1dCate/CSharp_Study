@@ -1,0 +1,15 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.sourcelink.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\bin\Debug\net9.0\CS037_Operator_Overloading.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\bin\Debug\net9.0\CS037_Operator_Overloading.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\bin\Debug\net9.0\CS037_Operator_Overloading.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\bin\Debug\net9.0\CS037_Operator_Overloading.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\bin\Debug\net9.0\CS037_Operator_Overloading.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\refint\CS037_Operator_Overloading.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\CS037_Operator_Overloading.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS037_Operator_Overloading\obj\Debug\net9.0\ref\CS037_Operator_Overloading.dll
