@@ -1,0 +1,15 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\bin\Debug\net9.0\CS038_Exception.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\bin\Debug\net9.0\CS038_Exception.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\bin\Debug\net9.0\CS038_Exception.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\bin\Debug\net9.0\CS038_Exception.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\bin\Debug\net9.0\CS038_Exception.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.sourcelink.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\refint\CS038_Exception.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\CS038_Exception.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS038_Exception\obj\Debug\net9.0\ref\CS038_Exception.dll
