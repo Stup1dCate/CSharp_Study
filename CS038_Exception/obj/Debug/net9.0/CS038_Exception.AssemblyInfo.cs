@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS038_Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6271b8ee6fa933a6193bc2aaee4f550a827f5b5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf0ed5d5b90e11e713e69aa65468cb7dd982951e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS038_Exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS038_Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
