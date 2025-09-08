@@ -1,4 +1,4 @@
-#Mảng răng cưa
+# Mảng răng cưa
 
 ⌯⌲ Mỗi phần tử của nó lại là một mảng, thay vì là một dữ liệu cụ thể. (bắt buộc phải chung kiểu cơ sở)
 
