@@ -1,0 +1,15 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\bin\Debug\net9.0\CS041_2_directory.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\bin\Debug\net9.0\CS041_2_directory.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\bin\Debug\net9.0\CS041_2_directory.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\bin\Debug\net9.0\CS041_2_directory.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\bin\Debug\net9.0\CS041_2_directory.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.sourcelink.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\refint\CS041_2_directory.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\CS041_2_directory.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_2_directory\obj\Debug\net9.0\ref\CS041_2_directory.dll

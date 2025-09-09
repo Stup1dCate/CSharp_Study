@@ -1,0 +1,15 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\bin\Debug\net9.0\CS041_1_file.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\bin\Debug\net9.0\CS041_1_file.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\bin\Debug\net9.0\CS041_1_file.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\bin\Debug\net9.0\CS041_1_file.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\bin\Debug\net9.0\CS041_1_file.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.sourcelink.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\refint\CS041_1_file.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\CS041_1_file.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_1_file\obj\Debug\net9.0\ref\CS041_1_file.dll
