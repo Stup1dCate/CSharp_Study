@@ -60,6 +60,35 @@ namespace CS041_1_file
                 Console.WriteLine($"Free: {drive.TotalFreeSpace}");
                 Console.WriteLine("\n");
             }
+
+
+
+            // làm việc với file
+            // lưu dữ liệu vào file (nếu file không tồn tại sẽ tự động khởi tạo file và lưu nội dung cần điền vào - nếu đã có sẵn file và nội dung thì sẽ ghi đè nội dung mới vào)
+            string filename = "abc_test.txt";
+            string content = "Hello World";
+            File.WriteAllText(filename, content); // File.WriteAllText(<tên thư mục>,<nội dung>);
+            string content_1 = "Hello World 2025 ";
+            File.WriteAllText(filename, content_1); // content sẽ bị ghi đè bởi content_1
+
+            // ghi tiếp nội dung (nối liền vào vị trí cuối cùng của file) vào file đã chọn 
+            string content_2 = "This is CSharp File's Program";
+            File.AppendAllText(filename, content_2);
+
+            // đọc nội dung trong file:
+            string content_3 = File.ReadAllText(filename);
+            Console.WriteLine(content_3);
+
+            // đổi tên file:
+            File.Move("abc_test.txt", "abc123.txt");
+
+            // copy sang một file khác (file được chép sang nếu không có sẽ tự tạo)
+            File.Copy("abc123.txt", "cba321.txt");
+
+            // xoá file:
+            File.Delete("cba321.txt");
+
+
         }
     }
 }
