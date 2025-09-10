@@ -9,7 +9,7 @@ Thuộc tính chứa ký tự phân chia thư mục trong biến môi trường.
 Kết hợp các chuỗi thành đường dẫn.
 ```csharp
 var path = Path.Combine("home", "ReadMe.txt"); // "home/ReadMe.txt"
-
+---
 
 ## 4. ChangeExtension
 Thay đổi phần mở rộng của đường dẫn.
