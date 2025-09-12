@@ -1,0 +1,15 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.AssemblyInfoInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.AssemblyInfo.cs
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.sourcelink.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\bin\Debug\net9.0\CS041_4_filesteam.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\bin\Debug\net9.0\CS041_4_filesteam.deps.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\bin\Debug\net9.0\CS041_4_filesteam.runtimeconfig.json
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\bin\Debug\net9.0\CS041_4_filesteam.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\bin\Debug\net9.0\CS041_4_filesteam.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\refint\CS041_4_filesteam.dll
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\CS041_4_filesteam.genruntimeconfig.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\CS041_File\CS041_4_filestream\obj\Debug\net9.0\ref\CS041_4_filesteam.dll
