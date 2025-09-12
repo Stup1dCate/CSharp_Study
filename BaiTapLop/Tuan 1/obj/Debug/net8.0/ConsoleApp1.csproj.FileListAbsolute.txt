@@ -1,0 +1,14 @@
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\PROJECT CUA BO MAY DAY\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
