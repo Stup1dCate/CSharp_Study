@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJECT CUA BO MAY DAY\\C#\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\PROJECT CUA BO MAY DAY\\C#\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj": {
+    "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJECT CUA BO MAY DAY\\C#\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\PROJECT CUA BO MAY DAY\\C#\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJECT CUA BO MAY DAY\\C#\\BaiTapLop\\Tuan 1\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\BaiTapLop\\Tuan 1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\LENOVO LEGION\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO LEGION\\OneDrive\\Desktop\\Nam_3_hk1\\CSharp\\CSharp_Study\\BaiTapLop\\Tuan 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
