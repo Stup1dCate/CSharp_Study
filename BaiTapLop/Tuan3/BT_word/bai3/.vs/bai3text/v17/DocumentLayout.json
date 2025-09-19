@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\vidu\\bai3\\bai3text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B54A5775-9002-431D-B14A-431CA769B40D}|bai3text\\bai3text.csproj|d:\\c#\\vidu\\bai3\\bai3text\\bai3text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54A5775-9002-431D-B14A-431CA769B40D}|bai3text\\bai3text.csproj|solutionrelative:bai3text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\vidu\\bt1\\BaiTap01\\BaiTap01\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\C#\\vidu\\bt1\\BaiTap01\\BaiTap01\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\bt1\\BaiTap01\\BaiTap01\\Test.cs",
+              "ToolTip": "D:\\C#\\vidu\\bt1\\BaiTap01\\BaiTap01\\Test.cs",
+              "RelativeToolTip": "..\\..\\bt1\\BaiTap01\\BaiTap01\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:46:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\vidu\\bai3\\bai3text\\bai3text\\Program.cs",
+              "RelativeDocumentMoniker": "bai3text\\Program.cs",
+              "ToolTip": "D:\\C#\\vidu\\bai3\\bai3text\\bai3text\\Program.cs",
+              "RelativeToolTip": "bai3text\\Program.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAcwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:45:41.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

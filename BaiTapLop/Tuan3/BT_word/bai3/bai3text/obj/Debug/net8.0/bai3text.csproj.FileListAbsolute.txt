@@ -1,0 +1,14 @@
+D:\C#\vidu\bai3\bai3text\bai3text\bin\Debug\net8.0\bai3text.exe
+D:\C#\vidu\bai3\bai3text\bai3text\bin\Debug\net8.0\bai3text.deps.json
+D:\C#\vidu\bai3\bai3text\bai3text\bin\Debug\net8.0\bai3text.runtimeconfig.json
+D:\C#\vidu\bai3\bai3text\bai3text\bin\Debug\net8.0\bai3text.dll
+D:\C#\vidu\bai3\bai3text\bai3text\bin\Debug\net8.0\bai3text.pdb
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.AssemblyInfoInputs.cache
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.AssemblyInfo.cs
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.csproj.CoreCompileInputs.cache
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.dll
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\refint\bai3text.dll
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.pdb
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\bai3text.genruntimeconfig.cache
+D:\C#\vidu\bai3\bai3text\bai3text\obj\Debug\net8.0\ref\bai3text.dll
