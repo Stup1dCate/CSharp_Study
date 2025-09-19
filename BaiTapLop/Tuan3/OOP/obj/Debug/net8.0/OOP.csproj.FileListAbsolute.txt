@@ -1,0 +1,14 @@
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\bin\Debug\net8.0\OOP.exe
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\bin\Debug\net8.0\OOP.deps.json
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\bin\Debug\net8.0\OOP.dll
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\bin\Debug\net8.0\OOP.pdb
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.dll
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\refint\OOP.dll
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.pdb
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+E:\PROJECT CUA BO MAY DAY\C#\BaiTapLop\Tuan2\OOP\obj\Debug\net8.0\ref\OOP.dll

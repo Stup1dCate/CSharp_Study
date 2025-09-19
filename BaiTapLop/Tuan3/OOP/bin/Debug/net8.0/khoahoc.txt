@@ -1,0 +1,9 @@
+TH001,Java Programming,45,2,4,6,15,Nguyen Van A
+TH002,Python Basic,40,3,5,7,12,Tran Thi B
+TH003,Web Development,50,7,CN,18,Le Van C
+TH004,Android Programming,48,2,4,6,20,Nguyen Van A
+TH005,Data Science,55,3,5,7,16,Tran Thi B
+TH006,Java Advanced,42,7,CN,14,Le Van C
+TH007,Python Advanced,46,2,4,6,19,Nguyen Van A
+TH008,Mobile App,52,3,5,7,11,Tran Thi B
+TH009,Database,38,7,CN,22,Le Van C
