@@ -1,0 +1,8 @@
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\bin\Debug\OOP_bai1.exe.config
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\bin\Debug\OOP_bai1.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\bin\Debug\OOP_bai1.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\obj\Debug\OOP_bai1.csproj.AssemblyReference.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\obj\Debug\OOP_bai1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\obj\Debug\OOP_bai1.exe
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\obj\Debug\OOP_bai1.pdb
+C:\Users\LENOVO LEGION\OneDrive\Desktop\Nam_3_hk1\CSharp\CSharp_Study\BaiTapLop\Tuan5\OOP_bai1\obj\Debug\OOP_bai1.exe.config
