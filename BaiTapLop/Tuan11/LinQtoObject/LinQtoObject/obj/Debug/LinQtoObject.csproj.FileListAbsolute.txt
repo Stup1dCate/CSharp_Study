@@ -1,0 +1,11 @@
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\bin\Debug\LinQtoObject.exe.config
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\bin\Debug\LinQtoObject.exe
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\bin\Debug\LinQtoObject.pdb
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.csproj.AssemblyReference.cache
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.FromMain.resources
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.Properties.Resources.resources
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.csproj.GenerateResource.cache
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.csproj.CoreCompileInputs.cache
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.exe
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.pdb
+D:\C#\BaiTapTrenLop\Tuan11\LinQtoObject\LinQtoObject\obj\Debug\LinQtoObject.exe.config

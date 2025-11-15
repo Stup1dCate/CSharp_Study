@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|d:\\c#\\baitaptrenlop\\tuan11\\linqtoobject\\linqtoobject\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|solutionrelative:linqtoobject\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\linqtoobject\\frommain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|solutionrelative:linqtoobject\\frommain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\linqtoobject\\frommain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|solutionrelative:linqtoobject\\frommain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\linqtoobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|solutionrelative:linqtoobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\linqtoobject\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|solutionrelative:linqtoobject\\frommain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|d:\\c#\\baitaptrenlop\\tuan11\\linqtoobject\\linqtoobject\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490AB072-52D2-4A89-AA02-59EA35704EDE}|LinQtoObject\\LinQtoObject.csproj|solutionrelative:linqtoobject\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 370,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVienDTO.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\SinhVienDTO.cs",
+              "RelativeDocumentMoniker": "LinQtoObject\\SinhVienDTO.cs",
+              "ToolTip": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\SinhVienDTO.cs",
+              "RelativeToolTip": "LinQtoObject\\SinhVienDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:54:47.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FromMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.cs",
+              "RelativeDocumentMoniker": "LinQtoObject\\FromMain.cs",
+              "ToolTip": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.cs [Design]",
+              "RelativeToolTip": "LinQtoObject\\FromMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:53:48.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\Program.cs",
+              "RelativeDocumentMoniker": "LinQtoObject\\Program.cs",
+              "ToolTip": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\Program.cs",
+              "RelativeToolTip": "LinQtoObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:35:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FromMain.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.Designer.cs",
+              "RelativeDocumentMoniker": "LinQtoObject\\FromMain.Designer.cs",
+              "ToolTip": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.Designer.cs",
+              "RelativeToolTip": "LinQtoObject\\FromMain.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAgwCwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:33:48.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FromMain.resx",
+              "DocumentMoniker": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.resx",
+              "RelativeDocumentMoniker": "LinQtoObject\\FromMain.resx",
+              "ToolTip": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.resx",
+              "RelativeToolTip": "LinQtoObject\\FromMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-14T07:33:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FromMain.cs",
+              "DocumentMoniker": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.cs",
+              "RelativeDocumentMoniker": "LinQtoObject\\FromMain.cs",
+              "ToolTip": "D:\\C#\\BaiTapTrenLop\\Tuan11\\LinQtoObject\\LinQtoObject\\FromMain.cs",
+              "RelativeToolTip": "LinQtoObject\\FromMain.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwKEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:15:39.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
