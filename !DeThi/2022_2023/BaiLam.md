@@ -123,28 +123,94 @@ Chương trình cho phép người dùng nhập vào ba giá trị:
 + Số năm gửi tiền tích kiệm có tên biến cho ô textbox: nudnam
 + Button Tính có tên biến: bttinh
 + Button Xoá có tên biến: btxoa
-+ Richtextbox có tên biến: rtbketqua
-Tiền lãi người gửi nhận được mỗi năm được tính theo công thức: Tiền lãi = tiền gửi * lãi suất / 100
-Tiền lãi = số tiền gửi * lãi suất / 100
-Tiền thu được gốc và lãi mỗi năm = số tiền gửi có được mỗi năm + tiền lãi
-Tiền thu được gốc và lãi cho năm hiện tại được dùng làm số tiền gửi cho năm tiếp theo
++ Richtextbox có tên biến: rtbketqua 
 
-Mô tả: </br>
+Tiền lãi người gửi nhận được mỗi năm được tính theo công thức: Tiền lãi = tiền gửi * lãi suất / 100 </br>
+Tiền lãi = số tiền gửi * lãi suất / 100 </br>
+Tiền thu được gốc và lãi mỗi năm = số tiền gửi có được mỗi năm + tiền lãi </br>
+Tiền thu được gốc và lãi cho năm hiện tại được dùng làm số tiền gửi cho năm tiếp theo </br>
+
+**Mô tả:** </br>
     Số tiền gửi = 100 </br>
     Lãi suất năm = 10 </br>
     Năm = 2 </br>
 Thì: </br>
-    Tiền thu được gốc và lãi năm 1 = 100 + 100*10/100 = 110 </br>
-    Tiền thu được gốc và lãi năm 2 = 110 + 110*10/100 = 121 </br>
+    Tiền thu được gốc và lãi năm 1 = 100 + 100x10/100 = 110 </br>
+    Tiền thu được gốc và lãi năm 2 = 110 + 110x10/100 = 121 </br>
     Kết quả số tiền gốc và lãi có thể có hoặc không có số thập phân: 110 = 110.0 = 110.00 </br>
-    
 ![Giao diện](image.png)  
-Yêu cầu: Chỉ cần viết phương thức xử lý cho sự kiện
+**Yêu cầu:** Chỉ cần viết phương thức xử lý cho sự kiện
 + Button Tính sẽ tính kết quả trả về bằng Richtextbox như hình trên
 + Button Xoá sẽ đưa về trạng thái như lúc ben đầu (tất cả các ô textbox đều rỗng)
 + Button Thoát sẽ thoát chương trình
 
-#### Bài làm
+#### Bài làm:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Câu 2:
+Giả sử kết quả một bảng database của USER trong database source SGU là QLSV.dbo, cơ sở dữ liệu lưu trữ tại vị trí SGU\SQLEXPRESS được xây dựng sẵn và một form đăng nhập như hình
+![Giao diện](image-1.png)
++ **Tên** có tên biến cho ô textbox: tbNguoidung
++ **Mật khẩu** có tên biến cho ô textbox: tbMatKhau
+
+**Yêu cầu:** </br>
+- Viết phương thức thực hiện cho button **Đăng Nhập**,
+    + khi người dùng nhập đúng tên và mật khẩu đồng thời kiểm tra nếu vai trò là 0 trong bảng cơ sở dữ liệu thì mở giao diện người dùng trong đó giao diện người dùng đã được cung cấp sẵn có tên **fmUsr**
+    + khi người dùng nhập đúng tên và mật khẩu đồng thời kiểm tra vai trò là 1 trong bảng cơ sở dữ liệu thì mở giao diện của người quản trị trong đó giao diện của người quản trị đã được cung cấp sẵn có tên **fmAdmin**
+    + Button Thoát sẽ thoát chương trình
+
+#### Bài làm:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Câu 3: Đề bài *TooLongDidntRead*
+![đề - 1](image-2.png)
+![đề - 2](image-3.png)
+![đề - 3](image-4.png)
+![result](image-5.png)
+
+#### Bài làm:
