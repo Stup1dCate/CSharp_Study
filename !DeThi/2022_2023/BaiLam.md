@@ -129,20 +129,20 @@ Tiền lãi = số tiền gửi * lãi suất / 100
 Tiền thu được gốc và lãi mỗi năm = số tiền gửi có được mỗi năm + tiền lãi
 Tiền thu được gốc và lãi cho năm hiện tại được dùng làm số tiền gửi cho năm tiếp theo
 
-Mô tả: 
-    Số tiền gửi = 100
-    Lãi suất năm = 10
-    Năm = 2
-Thì: 
-    Tiền thu được gốc và lãi năm 1 = 100 + 100*10/100 = 110
-    Tiền thu được gốc và lãi năm 2 = 110 + 110*10/100 = 121
-    Kết quả số tiền gốc và lãi có thể có hoặc không có số thập phân: 110 = 110.0 = 110.00
-![Logo GitHub](https://github.com/Stup1dCate/CSharp_Study/blob/main/!DeThi/2022_2023/3.jpg)   
-
-Yêu càu: Chỉ cần viết phương thức xử lý cho sự kiện
-Button Tính sẽ tính kết quả trả về bằng Richtextbox như hình trên
-Button Xoá sẽ đưa về trạng thái như lúc ben đầu (tất cả các ô textbox đều rỗng)
-Button Thoát sẽ thoát chương trình
+Mô tả: </br>
+    Số tiền gửi = 100 </br>
+    Lãi suất năm = 10 </br>
+    Năm = 2 </br>
+Thì: </br>
+    Tiền thu được gốc và lãi năm 1 = 100 + 100*10/100 = 110 </br>
+    Tiền thu được gốc và lãi năm 2 = 110 + 110*10/100 = 121 </br>
+    Kết quả số tiền gốc và lãi có thể có hoặc không có số thập phân: 110 = 110.0 = 110.00 </br>
+    
+![Giao diện](image.png)  
+Yêu cầu: Chỉ cần viết phương thức xử lý cho sự kiện
++ Button Tính sẽ tính kết quả trả về bằng Richtextbox như hình trên
++ Button Xoá sẽ đưa về trạng thái như lúc ben đầu (tất cả các ô textbox đều rỗng)
++ Button Thoát sẽ thoát chương trình
 
 #### Bài làm
 
