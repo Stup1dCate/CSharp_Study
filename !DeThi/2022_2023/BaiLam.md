@@ -145,30 +145,45 @@ Thì: </br>
 + Button Thoát sẽ thoát chương trình
 
 #### Bài làm:
+``` csharp
+// Phương thức tính lãi suất
+private void bttinh_Click(object sender, EventArgs e)
+{
+    // Lấy giá trị từ các control
+    double tienGui = Convert.ToDouble(txttiengui.Text);
+    double laiSuat = Convert.ToDouble(txtlaixuat.Text);
+    int soNam = (int)nudnam.Value;
+    
+    // Thêm tiêu đề
+    rtbketqua.Text = "Năm\tTiền thu được gốc và lãi\n"; // fomat cho đúng vị trí trên bảng
+    
+    // Tính toán và hiển thị kết quả
+    double tienHienTai = tienGui;
+    for (int nam = 1; nam <= soNam; nam++){
+        double tienLai = tienHienTai * laiSuat / 100;
+        double tongTien = tienHienTai + tienLai;
+        rtbketqua.AppendText($"{nam}\t{tongTien:F2}\n"); // in kết quả lên bảng (\t cách nhau 1 tab)
+        
+        tienHienTai = tongTien; // reset tiền năm tiếp theo = tiền đã tính lãi năm hiện tại
+    }
+}
 
+// Phương thức xóa dữ liệu
+private void btxoa_Click(object sender, EventArgs e)
+{
+    // clear tất cả các ô -> đều rỗng 
+    txttiengui.Clear();
+    txtlaixuat.Clear();
+    nudnam.Clear(); 
+    rtbketqua.Clear();
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Phương thức thoát chương trình
+private void btthoat_Click(object sender, EventArgs e) {Application.Exit();}
+```
 
 ### Câu 2:
-Giả sử kết quả một bảng database của USER trong database source SGU là QLSV.dbo, cơ sở dữ liệu lưu trữ tại vị trí SGU\SQLEXPRESS được xây dựng sẵn và một form đăng nhập như hình
+Giả sử kết quả một bảng database của USER trong database source SGU là QLSV.dbo, cơ sở dữ liệu lưu trữ tại vị trí SGU\SQLEXPRESS được xây dựng sẵn và một form đăng nhập như hình: </br>
 ![Giao diện](image-1.png)
 + **Tên** có tên biến cho ô textbox: tbNguoidung
 + **Mật khẩu** có tên biến cho ô textbox: tbMatKhau
@@ -179,38 +194,89 @@ Giả sử kết quả một bảng database của USER trong database source SG
     + khi người dùng nhập đúng tên và mật khẩu đồng thời kiểm tra vai trò là 1 trong bảng cơ sở dữ liệu thì mở giao diện của người quản trị trong đó giao diện của người quản trị đã được cung cấp sẵn có tên **fmAdmin**
     + Button Thoát sẽ thoát chương trình
 
-#### Bài làm:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Bài làm: Giả sử gọi giao diện đang thao tác là: LoginForm và ô Button Đăng nhập có tên biến là: btnDangNhap_CLick
+``` csharp
+private void btnDangNhap_Click(object sender, EventArgs e)
+{
+    // Lấy thông tin từ các ô textbox 
+    string username = tbNguoidung.Text;
+    string password = tbMatKhau.Text;
+    
+    // Chuỗi kết nối database (DỮ LIỆU TỪ ĐỀ BÀI)
+    string connectionString = @"Data Source=SGU\SQLEXPRESS;Initial Catalog=QLSV;Integrated Security=True";
+    
+    // Kết nối và kiểm tra đăng nhập
+    using (SqlConnection connection = new SqlConnection(connectionString))
+    {
+        connection.Open();
+        // Câu truy vấn kiểm tra
+        string query = "SELECT VaiTro FROM dbo.[USER] WHERE TenDangNhap = @Username AND MatKhau = @Password";
+        
+        using (SqlCommand command = new SqlCommand(query, connection))
+        {
+            // Truyền tham số để tránh SQL Injection
+            command.Parameters.AddWithValue("@Username", username);
+            command.Parameters.AddWithValue("@Password", password);
+            
+            // Thực thi và lấy kết quả
+            object result = command.ExecuteScalar();
+            
+            // Kiểm tra và phân quyền
+            if (result != null)
+            {
+                int vaiTro = Convert.ToInt32(result); // chuyển về dạng int để kiểm tra
+                // Ẩn form đăng nhập hiện tại
+                this.Hide();
+                // Mở form tương ứng theo vai trò
+                if (vaiTro == 0)
+                {
+                    fmUser userForm = new fmUser();
+                    userForm.Show();
+                }
+                else if (vaiTro == 1)
+                {
+                    fmAdmin adminForm = new fmAdmin();
+                    adminForm.Show();
+                }
+            }
+        }
+    }
+}
+```
 
 
 ### Câu 3: Đề bài *TooLongDidntRead*
-![đề - 1](image-2.png)
-![đề - 2](image-3.png)
-![đề - 3](image-4.png)
+![đề - 1](image-2.png) </br>
+![đề - 2](image-3.png) </br>
+![đề - 3](image-4.png) </br>
 ![result](image-5.png)
 
 #### Bài làm:
+``` csharp
+public class ProductController : Controller
+{
+    public ActionResult Index(FormCollection collections)
+    {
+        QuanLySanPhamDataContext context = new QuanLySanPhamDataContext();
+        // Khai báo và parse giá trị từ form
+        double a = 0, b = 0;
+        double.TryParse(collections["txtMin"], out a); 
+        // chuyển đổi chuỗi thành số -> nếu thành công gán cho a
+        double.TryParse(collections["txtMax"], out b);
+        // chuyển đổi chuỗi thành số -> nếu thành công gán cho b
+
+        // truy vấn LinQ 
+        var dsProduct = context.Products.Where(p => p.UnitPrice >= a && p.UnitPrice <= b).ToList();
+        // lấy ra sản phẩm p có đơn giá UnitPrice trong đoạn [a, b]
+        return View(dsProduct);
+    }
+}
+```
+
+
+
+
+
+
+
+
