@@ -1,5 +1,4 @@
 # 2022 - 2023 CLC - HK1
-## Phần 1:
 ### Bài l: 
 ![Đề bài](image.png)
 #### Bài làm:
@@ -77,7 +76,7 @@ Sự khác biệt lớn nhất là: Interface dùng cho **CHỨC NĂNG**, Abstra
 *Các thuộc tính của mỗi đối tượng chỉ mang tính chất tượng trưng*
 ![Bài làm - B2](image-6.png)
 
-### Câu 3: 
+### Bài 3: 
 ![Đề bài](image-2.png)
 #### Bài làm:
 ``` csharp
@@ -142,7 +141,7 @@ public class Vector
 }
 ```
 
-### Câu 4:
+### Bài 4:
 ![1](image-3.png)
 ![2](image-4.png)
 #### Bài làm: 
@@ -207,7 +206,7 @@ CREATE TABLE Sales (
     Sales DECIMAL(10, 2)
 );
 ```
-B2: Kết nối SQL sever từ C# 
+B2: Kết nối SQL sever từ C# </br>
 B3: Chương trình lưu dữ liệu (ví dụ với ADONET)
 ``` csharp
 using System;
